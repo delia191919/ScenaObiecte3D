@@ -1,0 +1,16 @@
+﻿  main.cpp
+C:\PG\Haisavedem\Haisavedem\main.cpp(213,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\PG\Haisavedem\Haisavedem\main.cpp(214,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\PG\Haisavedem\Haisavedem\main.cpp(218,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\PG\Haisavedem\Haisavedem\main.cpp(219,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\PG\Haisavedem\Haisavedem\main.cpp(220,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\PG\Haisavedem\Haisavedem\main.cpp(221,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\PG\Haisavedem\Haisavedem\main.cpp(233,16): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+LINK : warning LNK4098: defaultlib 'LIBCMT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  Generating code
+  21 of 1807 functions ( 1.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    23 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+libglew32.lib(glew.obj) : warning LNK4099: PDB '' was not found with 'libglew32.lib(glew.obj)' or at ''; linking object as if no debug info
+  Haisavedem.vcxproj -> C:\PG\Haisavedem\x64\Release\Haisavedem.exe
