@@ -1,0 +1,8 @@
+﻿  main.cpp
+C:\PG\umbre\umbre\main.cpp(130,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\PG\umbre\umbre\main.cpp(131,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\PG\umbre\umbre\main.cpp(135,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\PG\umbre\umbre\main.cpp(136,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\PG\umbre\umbre\main.cpp(137,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\PG\umbre\umbre\main.cpp(138,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  umbre.vcxproj -> C:\PG\umbre\umbre\x64\Debug\umbre.exe

@@ -1,0 +1,13 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (PROIECT.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  main.cpp
+C:\PG\Haisavedem\Haisavedem\main.cpp(213,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\PG\Haisavedem\Haisavedem\main.cpp(214,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\PG\Haisavedem\Haisavedem\main.cpp(218,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\PG\Haisavedem\Haisavedem\main.cpp(219,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\PG\Haisavedem\Haisavedem\main.cpp(220,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\PG\Haisavedem\Haisavedem\main.cpp(221,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\PG\Haisavedem\Haisavedem\main.cpp(233,16): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+libglew32d.lib(glew.obj) : warning LNK4099: PDB '' was not found with 'libglew32d.lib(glew.obj)' or at ''; linking object as if no debug info
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+LINK : warning LNK4098: defaultlib 'LIBCMT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  Haisavedem.vcxproj -> C:\PG\Haisavedem\x64\Debug\Haisavedem.exe
